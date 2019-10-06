@@ -68,6 +68,3 @@
     "lint-tests": "eslint lib/nodejs/test/. --ext .js"
   }
 }
-
-
-
