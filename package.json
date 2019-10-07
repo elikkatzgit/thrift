@@ -41,6 +41,7 @@
     "ws": "^5.0.0"
   },
   "devDependencies": {
+    "handlebars": "^4.0.12",
     "buffer-equals": "^1.0.4",
     "commander": "^2.14.1",
     "connect": "^3.6.6",
